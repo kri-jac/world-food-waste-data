@@ -1,0 +1,673 @@
+Country,Year,TotalWaste
+Afghanistan,2014,1322
+Afghanistan,2015,1201
+Afghanistan,2016,1327
+Afghanistan,2017,1146
+Albania,2014,292
+Albania,2015,308
+Albania,2016,316
+Albania,2017,321
+Algeria,2014,3690
+Algeria,2015,3799
+Algeria,2016,3732
+Algeria,2017,3683
+Angola,2014,2752
+Angola,2015,2833
+Angola,2016,3341
+Angola,2017,3795
+Antigua and Barbuda,2014,1
+Antigua and Barbuda,2015,1
+Antigua and Barbuda,2016,0
+Antigua and Barbuda,2017,1
+Argentina,2014,3257
+Argentina,2015,3509
+Argentina,2016,3546
+Argentina,2017,3736
+Armenia,2014,334
+Armenia,2015,315
+Armenia,2016,267
+Armenia,2017,274
+Australia,2014,2437
+Australia,2015,2551
+Australia,2016,2633
+Australia,2017,2874
+Austria,2014,785
+Austria,2015,599
+Austria,2016,725
+Austria,2017,625
+Azerbaijan,2014,459
+Azerbaijan,2015,436
+Azerbaijan,2016,506
+Azerbaijan,2017,491
+Bahamas,2014,9
+Bahamas,2015,8
+Bahamas,2016,7
+Bahamas,2017,7
+Bangladesh,2014,4700
+Bangladesh,2015,4840
+Bangladesh,2016,4823
+Bangladesh,2017,4991
+Barbados,2014,10
+Barbados,2015,8
+Barbados,2016,6
+Barbados,2017,7
+Belarus,2014,708
+Belarus,2015,656
+Belarus,2016,679
+Belarus,2017,670
+Belgium,2014,758
+Belgium,2015,676
+Belgium,2016,672
+Belgium,2017,754
+Belize,2014,82
+Belize,2015,80
+Belize,2016,93
+Belize,2017,103
+Benin,2014,1248
+Benin,2015,1182
+Benin,2016,1278
+Benin,2017,1323
+Bolivia (Plurinational State of),2014,1046
+Bolivia (Plurinational State of),2015,948
+Bolivia (Plurinational State of),2016,963
+Bolivia (Plurinational State of),2017,998
+Bosnia and Herzegovina,2014,254
+Bosnia and Herzegovina,2015,276
+Bosnia and Herzegovina,2016,326
+Bosnia and Herzegovina,2017,279
+Botswana,2014,58
+Botswana,2015,62
+Botswana,2016,61
+Botswana,2017,53
+Brazil,2014,98332
+Brazil,2015,99951
+Brazil,2016,100481
+Brazil,2017,100912
+Bulgaria,2014,742
+Bulgaria,2015,705
+Bulgaria,2016,738
+Bulgaria,2017,790
+Burkina Faso,2014,469
+Burkina Faso,2015,447
+Burkina Faso,2016,475
+Burkina Faso,2017,448
+Cabo Verde,2014,10
+Cabo Verde,2015,10
+Cabo Verde,2016,11
+Cabo Verde,2017,9
+Cambodia,2014,2268
+Cambodia,2015,2309
+Cambodia,2016,2499
+Cambodia,2017,2625
+Cameroon,2014,4308
+Cameroon,2015,4535
+Cameroon,2016,4803
+Cameroon,2017,4873
+Canada,2014,3242
+Canada,2015,3040
+Canada,2016,3156
+Canada,2017,3200
+Central African Republic,2014,148
+Central African Republic,2015,150
+Central African Republic,2016,157
+Central African Republic,2017,159
+Chad,2014,630
+Chad,2015,618
+Chad,2016,713
+Chad,2017,703
+Chile,2014,1099
+Chile,2015,1105
+Chile,2016,1103
+Chile,2017,1167
+China,2014,119314
+China,2015,121733
+China,2016,128071
+China,2017,129667
+Taiwan,2014,594
+Taiwan,2015,616
+Taiwan,2016,570
+Taiwan,2017,607
+Colombia,2014,4375
+Colombia,2015,4368
+Colombia,2016,4479
+Colombia,2017,4514
+Congo,2014,298
+Congo,2015,305
+Congo,2016,312
+Congo,2017,317
+Costa Rica,2014,1062
+Costa Rica,2015,1033
+Costa Rica,2016,1074
+Costa Rica,2017,1087
+Ivory Coast,2014,1765
+Ivory Coast,2015,1926
+Ivory Coast,2016,1879
+Ivory Coast,2017,1934
+Croatia,2014,343
+Croatia,2015,338
+Croatia,2016,400
+Croatia,2017,329
+Cuba,2014,1510
+Cuba,2015,1601
+Cuba,2016,1565
+Cuba,2017,1441
+Cyprus,2014,50
+Cyprus,2015,54
+Cyprus,2016,49
+Cyprus,2017,53
+Czechia,2014,605
+Czechia,2015,533
+Czechia,2016,598
+Czechia,2017,588
+North Korea,2014,1112
+North Korea,2015,1136
+North Korea,2016,1208
+North Korea,2017,1090
+Denmark,2014,632
+Denmark,2015,647
+Denmark,2016,631
+Denmark,2017,700
+Djibouti,2014,5
+Djibouti,2015,5
+Djibouti,2016,5
+Djibouti,2017,5
+Dominica,2014,22
+Dominica,2015,23
+Dominica,2016,23
+Dominica,2017,24
+Dominican Republic,2014,913
+Dominican Republic,2015,894
+Dominican Republic,2016,898
+Dominican Republic,2017,985
+Ecuador,2014,864
+Ecuador,2015,970
+Ecuador,2016,835
+Ecuador,2017,860
+Egypt,2014,8219
+Egypt,2015,9210
+Egypt,2016,8886
+Egypt,2017,8372
+El Salvador,2014,248
+El Salvador,2015,246
+El Salvador,2016,268
+El Salvador,2017,282
+Estonia,2014,21
+Estonia,2015,28
+Estonia,2016,38
+Estonia,2017,32
+Eswatini,2014,306
+Eswatini,2015,309
+Eswatini,2016,312
+Eswatini,2017,316
+Ethiopia,2014,2800
+Ethiopia,2015,2838
+Ethiopia,2016,2853
+Ethiopia,2017,2915
+Fiji,2014,110
+Fiji,2015,101
+Fiji,2016,93
+Fiji,2017,88
+Finland,2014,377
+Finland,2015,336
+Finland,2016,340
+Finland,2017,332
+France,2014,5453
+France,2015,5126
+France,2016,4955
+France,2017,5682
+French Polynesia,2014,16
+French Polynesia,2015,16
+French Polynesia,2016,16
+French Polynesia,2017,15
+Gabon,2014,247
+Gabon,2015,244
+Gabon,2016,244
+Gabon,2017,247
+Gambia,2014,29
+Gambia,2015,33
+Gambia,2016,36
+Gambia,2017,36
+Georgia,2014,86
+Georgia,2015,76
+Georgia,2016,78
+Georgia,2017,66
+Germany,2014,4976
+Germany,2015,4931
+Germany,2016,5219
+Germany,2017,5756
+Ghana,2014,8576
+Ghana,2015,8459
+Ghana,2016,8666
+Ghana,2017,8961
+Greece,2014,1187
+Greece,2015,1289
+Greece,2016,1236
+Greece,2017,1209
+Grenada,2014,2
+Grenada,2015,3
+Grenada,2016,3
+Grenada,2017,3
+Guatemala,2014,1919
+Guatemala,2015,2073
+Guatemala,2016,2132
+Guatemala,2017,2207
+Guinea,2014,1150
+Guinea,2015,1183
+Guinea,2016,1221
+Guinea,2017,1217
+Guinea-Bissau,2014,74
+Guinea-Bissau,2015,76
+Guinea-Bissau,2016,78
+Guinea-Bissau,2017,78
+Guyana,2014,212
+Guyana,2015,238
+Guyana,2016,220
+Guyana,2017,199
+Haiti,2014,749
+Haiti,2015,748
+Haiti,2016,738
+Haiti,2017,753
+Honduras,2014,295
+Honduras,2015,284
+Honduras,2016,310
+Honduras,2017,316
+Hungary,2014,462
+Hungary,2015,412
+Hungary,2016,403
+Hungary,2017,362
+Iceland,2014,1
+Iceland,2015,1
+Iceland,2016,1
+Iceland,2017,1
+India,2014,73131
+India,2015,71410
+India,2016,71918
+India,2017,74526
+Indonesia,2014,14601
+Indonesia,2015,14810
+Indonesia,2016,14941
+Indonesia,2017,15169
+Iran (Islamic Republic of),2014,6351
+Iran (Islamic Republic of),2015,6192
+Iran (Islamic Republic of),2016,6547
+Iran (Islamic Republic of),2017,6512
+Iraq,2014,1381
+Iraq,2015,911
+Iraq,2016,973
+Iraq,2017,841
+Ireland,2014,160
+Ireland,2015,164
+Ireland,2016,159
+Ireland,2017,171
+Israel,2014,331
+Israel,2015,330
+Israel,2016,342
+Israel,2017,324
+Italy,2014,1902
+Italy,2015,1912
+Italy,2016,1937
+Italy,2017,1873
+Jamaica,2014,252
+Jamaica,2015,245
+Jamaica,2016,232
+Jamaica,2017,233
+Japan,2014,3397
+Japan,2015,3345
+Japan,2016,3279
+Japan,2017,3209
+Jordan,2014,412
+Jordan,2015,419
+Jordan,2016,459
+Jordan,2017,420
+Kazakhstan,2014,1624
+Kazakhstan,2015,1740
+Kazakhstan,2016,1854
+Kazakhstan,2017,1745
+Kenya,2014,1861
+Kenya,2015,1983
+Kenya,2016,1894
+Kenya,2017,1772
+Kiribati,2014,8
+Kiribati,2015,8
+Kiribati,2016,8
+Kiribati,2017,8
+Kuwait,2014,109
+Kuwait,2015,114
+Kuwait,2016,94
+Kuwait,2017,107
+Kyrgyzstan,2014,181
+Kyrgyzstan,2015,188
+Kyrgyzstan,2016,186
+Kyrgyzstan,2017,198
+Latvia,2014,44
+Latvia,2015,52
+Latvia,2016,55
+Latvia,2017,60
+Lebanon,2014,237
+Lebanon,2015,230
+Lebanon,2016,224
+Lebanon,2017,231
+Lesotho,2014,40
+Lesotho,2015,32
+Lesotho,2016,30
+Lesotho,2017,36
+Liberia,2014,174
+Liberia,2015,181
+Liberia,2016,185
+Liberia,2017,185
+Lithuania,2014,239
+Lithuania,2015,283
+Lithuania,2016,309
+Lithuania,2017,332
+Luxembourg,2014,14
+Luxembourg,2015,12
+Luxembourg,2016,11
+Luxembourg,2017,12
+Madagascar,2014,1131
+Madagascar,2015,1091
+Madagascar,2016,1110
+Madagascar,2017,1038
+Malawi,2014,2411
+Malawi,2015,2189
+Malawi,2016,2144
+Malawi,2017,2481
+Malaysia,2014,2112
+Malaysia,2015,2198
+Malaysia,2016,1997
+Malaysia,2017,2239
+Maldives,2014,0
+Maldives,2015,0
+Maldives,2016,0
+Maldives,2017,0
+Mali,2014,1361
+Mali,2015,1611
+Mali,2016,1834
+Mali,2017,1002
+Malta,2014,18
+Malta,2015,19
+Malta,2016,16
+Malta,2017,18
+Mauritania,2014,81
+Mauritania,2015,91
+Mauritania,2016,89
+Mauritania,2017,96
+Mauritius,2014,212
+Mauritius,2015,211
+Mauritius,2016,200
+Mauritius,2017,198
+Mexico,2014,9561
+Mexico,2015,9958
+Mexico,2016,10909
+Mexico,2017,10957
+Mongolia,2014,60
+Mongolia,2015,55
+Mongolia,2016,63
+Mongolia,2017,53
+Montenegro,2014,28
+Montenegro,2015,29
+Montenegro,2016,26
+Montenegro,2017,27
+Morocco,2014,2566
+Morocco,2015,2295
+Morocco,2016,2324
+Morocco,2017,2206
+Mozambique,2014,1407
+Mozambique,2015,1373
+Mozambique,2016,1527
+Mozambique,2017,1527
+Myanmar,2014,3605
+Myanmar,2015,3605
+Myanmar,2016,3645
+Myanmar,2017,3654
+Namibia,2014,109
+Namibia,2015,115
+Namibia,2016,118
+Namibia,2017,111
+Nepal,2014,2148
+Nepal,2015,2113
+Nepal,2016,2245
+Nepal,2017,2127
+Netherlands,2014,945
+Netherlands,2015,834
+Netherlands,2016,850
+Netherlands,2017,1046
+New Caledonia,2014,4
+New Caledonia,2015,4
+New Caledonia,2016,4
+New Caledonia,2017,4
+New Zealand,2014,507
+New Zealand,2015,503
+New Zealand,2016,516
+New Zealand,2017,496
+Nicaragua,2014,636
+Nicaragua,2015,611
+Nicaragua,2016,650
+Nicaragua,2017,699
+Niger,2014,1439
+Niger,2015,1597
+Niger,2016,1749
+Niger,2017,1784
+Nigeria,2014,15656
+Nigeria,2015,16144
+Nigeria,2016,16941
+Nigeria,2017,16724
+North Macedonia,2014,191
+North Macedonia,2015,189
+North Macedonia,2016,202
+North Macedonia,2017,170
+Norway,2014,170
+Norway,2015,165
+Norway,2016,176
+Norway,2017,160
+Oman,2014,93
+Oman,2015,96
+Oman,2016,99
+Oman,2017,129
+Pakistan,2014,11367
+Pakistan,2015,11634
+Pakistan,2016,11777
+Pakistan,2017,12421
+Panama,2014,101
+Panama,2015,101
+Panama,2016,105
+Panama,2017,111
+Paraguay,2014,1670
+Paraguay,2015,1820
+Paraguay,2016,1844
+Paraguay,2017,1929
+Peru,2014,4464
+Peru,2015,4430
+Peru,2016,4386
+Peru,2017,4440
+Philippines,2014,3207
+Philippines,2015,3356
+Philippines,2016,3666
+Philippines,2017,3992
+Poland,2014,3040
+Poland,2015,2565
+Poland,2016,2967
+Poland,2017,3351
+Portugal,2014,576
+Portugal,2015,629
+Portugal,2016,601
+Portugal,2017,647
+South Korea,2014,2277
+South Korea,2015,2190
+South Korea,2016,2143
+South Korea,2017,2251
+Moldova,2014,324
+Moldova,2015,243
+Moldova,2016,308
+Moldova,2017,321
+Romania,2014,856
+Romania,2015,737
+Romania,2016,768
+Romania,2017,751
+Russia,2014,4469
+Russia,2015,4990
+Russia,2016,5259
+Russia,2017,5313
+Rwanda,2014,898
+Rwanda,2015,881
+Rwanda,2016,833
+Rwanda,2017,759
+Saint Kitts and Nevis,2014,0
+Saint Kitts and Nevis,2015,0
+Saint Kitts and Nevis,2016,0
+Saint Kitts and Nevis,2017,0
+Saint Lucia,2014,10
+Saint Lucia,2015,10
+Saint Lucia,2016,10
+Saint Lucia,2017,9
+Saint Vincent and the Grenadines,2014,11
+Saint Vincent and the Grenadines,2015,11
+Saint Vincent and the Grenadines,2016,11
+Saint Vincent and the Grenadines,2017,12
+Samoa,2014,19
+Samoa,2015,19
+Samoa,2016,19
+Samoa,2017,18
+Sao Tome and Principe,2014,15
+Sao Tome and Principe,2015,12
+Sao Tome and Principe,2016,13
+Sao Tome and Principe,2017,15
+Saudi Arabia,2014,748
+Saudi Arabia,2015,832
+Saudi Arabia,2016,892
+Saudi Arabia,2017,803
+Senegal,2014,377
+Senegal,2015,513
+Senegal,2016,480
+Senegal,2017,467
+Serbia,2014,651
+Serbia,2015,550
+Serbia,2016,637
+Serbia,2017,651
+Sierra Leone,2014,2364
+Sierra Leone,2015,2613
+Sierra Leone,2016,2648
+Sierra Leone,2017,2745
+Slovakia,2014,247
+Slovakia,2015,190
+Slovakia,2016,223
+Slovakia,2017,194
+Slovenia,2014,219
+Slovenia,2015,212
+Slovenia,2016,218
+Slovenia,2017,230
+Solomon Islands,2014,66
+Solomon Islands,2015,65
+Solomon Islands,2016,59
+Solomon Islands,2017,54
+South Africa,2014,3093
+South Africa,2015,2902
+South Africa,2016,2725
+South Africa,2017,3108
+Spain,2014,3489
+Spain,2015,3733
+Spain,2016,3617
+Spain,2017,3604
+Sri Lanka,2014,801
+Sri Lanka,2015,819
+Sri Lanka,2016,732
+Sri Lanka,2017,673
+Sudan,2014,1596
+Sudan,2015,1754
+Sudan,2016,1821
+Sudan,2017,1806
+Suriname,2014,53
+Suriname,2015,49
+Suriname,2016,49
+Suriname,2017,49
+Sweden,2014,433
+Sweden,2015,447
+Sweden,2016,432
+Sweden,2017,451
+Switzerland,2014,232
+Switzerland,2015,192
+Switzerland,2016,181
+Switzerland,2017,211
+Tajikistan,2014,368
+Tajikistan,2015,395
+Tajikistan,2016,404
+Tajikistan,2017,412
+Thailand,2014,7064
+Thailand,2015,6783
+Thailand,2016,6625
+Thailand,2017,6963
+Timor-Leste,2014,22
+Timor-Leste,2015,21
+Timor-Leste,2016,20
+Timor-Leste,2017,20
+Togo,2014,348
+Togo,2015,514
+Togo,2016,520
+Togo,2017,529
+Trinidad and Tobago,2014,16
+Trinidad and Tobago,2015,16
+Trinidad and Tobago,2016,15
+Trinidad and Tobago,2017,16
+Tunisia,2014,837
+Tunisia,2015,980
+Tunisia,2016,865
+Tunisia,2017,920
+Turkey,2014,10794
+Turkey,2015,11516
+Turkey,2016,11543
+Turkey,2017,12229
+Turkmenistan,2014,310
+Turkmenistan,2015,275
+Turkmenistan,2016,286
+Turkmenistan,2017,302
+Uganda,2014,936
+Uganda,2015,944
+Uganda,2016,924
+Uganda,2017,915
+Ukraine,2014,6111
+Ukraine,2015,5944
+Ukraine,2016,5348
+Ukraine,2017,3651
+United Arab Emirates,2014,564
+United Arab Emirates,2015,532
+United Arab Emirates,2016,535
+United Arab Emirates,2017,525
+United Kingdom,2014,1726
+United Kingdom,2015,1532
+United Kingdom,2016,1414
+United Kingdom,2017,1671
+United Republic of Tanzania,2014,3674
+United Republic of Tanzania,2015,3696
+United Republic of Tanzania,2016,3567
+United Republic of Tanzania,2017,3540
+United States of America,2014,35626
+United States of America,2015,35301
+United States of America,2016,38824
+United States of America,2017,36551
+Uruguay,2014,500
+Uruguay,2015,469
+Uruguay,2016,439
+Uruguay,2017,425
+Vanuatu,2014,23
+Vanuatu,2015,21
+Vanuatu,2016,23
+Vanuatu,2017,21
+Venezuela (Bolivarian Republic of),2014,1463
+Venezuela (Bolivarian Republic of),2015,1368
+Venezuela (Bolivarian Republic of),2016,1100
+Venezuela (Bolivarian Republic of),2017,1103
+Vietnam,2014,7754
+Vietnam,2015,7819
+Vietnam,2016,7693
+Vietnam,2017,7797
+Yemen,2014,284
+Yemen,2015,172
+Yemen,2016,151
+Yemen,2017,156
+Zambia,2014,532
+Zambia,2015,520
+Zambia,2016,546
+Zambia,2017,581
+Zimbabwe,2014,390
+Zimbabwe,2015,370
+Zimbabwe,2016,361
+Zimbabwe,2017,370

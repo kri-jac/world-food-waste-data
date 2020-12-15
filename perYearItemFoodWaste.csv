@@ -1,0 +1,345 @@
+Food Item,Year,TotalWaste
+Wheat and products,2014,26324
+Wheat and products,2015,25551
+Wheat and products,2016,26632
+Wheat and products,2017,26070
+Rice and products,2014,37338
+Rice and products,2015,37577
+Rice and products,2016,40411
+Rice and products,2017,40811
+Barley and products,2014,4812
+Barley and products,2015,5055
+Barley and products,2016,5213
+Barley and products,2017,5029
+Maize and products,2014,55023
+Maize and products,2015,55885
+Maize and products,2016,61258
+Maize and products,2017,63074
+Rye and products,2014,517
+Rye and products,2015,557
+Rye and products,2016,508
+Rye and products,2017,537
+Oats,2014,870
+Oats,2015,935
+Oats,2016,953
+Oats,2017,990
+Millet and products,2014,2029
+Millet and products,2015,2113
+Millet and products,2016,2108
+Millet and products,2017,1950
+Sorghum and products,2014,2790
+Sorghum and products,2015,2940
+Sorghum and products,2016,3044
+Sorghum and products,2017,2677
+"Cereals, Other",2014,1472
+"Cereals, Other",2015,1474
+"Cereals, Other",2016,1456
+"Cereals, Other",2017,1390
+Cassava and products,2014,28086
+Cassava and products,2015,28516
+Cassava and products,2016,28918
+Cassava and products,2017,29080
+Potatoes and products,2014,39900
+Potatoes and products,2015,40442
+Potatoes and products,2016,39438
+Potatoes and products,2017,39968
+Sweet potatoes,2014,8902
+Sweet potatoes,2015,8865
+Sweet potatoes,2016,9133
+Sweet potatoes,2017,9215
+Yams,2014,5887
+Yams,2015,6070
+Yams,2016,6420
+Yams,2017,6435
+"Roots, Other",2014,3190
+"Roots, Other",2015,3231
+"Roots, Other",2016,3243
+"Roots, Other",2017,3243
+Sugar cane,2014,117362
+Sugar cane,2015,117811
+Sugar cane,2016,119315
+Sugar cane,2017,118805
+Sugar beet,2014,9842
+Sugar beet,2015,8845
+Sugar beet,2016,9613
+Sugar beet,2017,10487
+Sugar non-centrifugal,2014,28
+Sugar non-centrifugal,2015,25
+Sugar non-centrifugal,2016,26
+Sugar non-centrifugal,2017,25
+Sugar (Raw Equivalent),2014,64
+Sugar (Raw Equivalent),2015,66
+Sugar (Raw Equivalent),2016,59
+Sugar (Raw Equivalent),2017,60
+"Sweeteners, Other",2014,54
+"Sweeteners, Other",2015,51
+"Sweeteners, Other",2016,51
+"Sweeteners, Other",2017,50
+Honey,2014,96
+Honey,2015,99
+Honey,2016,98
+Honey,2017,100
+Beans,2014,1410
+Beans,2015,1518
+Beans,2016,1523
+Beans,2017,1697
+Peas,2014,471
+Peas,2015,485
+Peas,2016,572
+Peas,2017,646
+"Pulses, Other and products",2014,2127
+"Pulses, Other and products",2015,2124
+"Pulses, Other and products",2016,2330
+"Pulses, Other and products",2017,2602
+Nuts and products,2014,924
+Nuts and products,2015,933
+Nuts and products,2016,1063
+Nuts and products,2017,1035
+Soyabeans,2014,4366
+Soyabeans,2015,4267
+Soyabeans,2016,4571
+Soyabeans,2017,4608
+Groundnuts (Shelled Eq),2014,2539
+Groundnuts (Shelled Eq),2015,2549
+Groundnuts (Shelled Eq),2016,2559
+Groundnuts (Shelled Eq),2017,2486
+Sunflower seed,2014,1352
+Sunflower seed,2015,1341
+Sunflower seed,2016,1389
+Sunflower seed,2017,1360
+Rape and Mustardseed,2014,3141
+Rape and Mustardseed,2015,2881
+Rape and Mustardseed,2016,2721
+Rape and Mustardseed,2017,2943
+Coconuts - Incl Copra,2014,3797
+Coconuts - Incl Copra,2015,3679
+Coconuts - Incl Copra,2016,3740
+Coconuts - Incl Copra,2017,3598
+Sesame seed,2014,374
+Sesame seed,2015,339
+Sesame seed,2016,345
+Sesame seed,2017,338
+Olives (including preserved),2014,819
+Olives (including preserved),2015,1080
+Olives (including preserved),2016,1040
+Olives (including preserved),2017,962
+"Oilcrops, Other",2014,731
+"Oilcrops, Other",2015,785
+"Oilcrops, Other",2016,777
+"Oilcrops, Other",2017,761
+Soyabean Oil,2014,7
+Soyabean Oil,2015,4
+Soyabean Oil,2016,5
+Soyabean Oil,2017,4
+Groundnut Oil,2014,0
+Groundnut Oil,2015,0
+Groundnut Oil,2016,0
+Groundnut Oil,2017,0
+Sunflowerseed Oil,2014,4
+Sunflowerseed Oil,2015,4
+Sunflowerseed Oil,2016,4
+Sunflowerseed Oil,2017,4
+Rape and Mustard Oil,2014,0
+Rape and Mustard Oil,2015,0
+Rape and Mustard Oil,2016,0
+Rape and Mustard Oil,2017,0
+Cottonseed Oil,2014,0
+Cottonseed Oil,2015,0
+Cottonseed Oil,2016,0
+Cottonseed Oil,2017,0
+Palmkernel Oil,2014,25
+Palmkernel Oil,2015,26
+Palmkernel Oil,2016,22
+Palmkernel Oil,2017,25
+Palm Oil,2014,304
+Palm Oil,2015,313
+Palm Oil,2016,259
+Palm Oil,2017,297
+Coconut Oil,2014,0
+Coconut Oil,2015,0
+Coconut Oil,2016,0
+Coconut Oil,2017,0
+Sesameseed Oil,2014,0
+Sesameseed Oil,2015,0
+Sesameseed Oil,2016,0
+Sesameseed Oil,2017,0
+Olive Oil,2014,0
+Olive Oil,2015,0
+Olive Oil,2016,0
+Olive Oil,2017,0
+Ricebran Oil,2014,0
+Ricebran Oil,2015,0
+Ricebran Oil,2016,0
+Ricebran Oil,2017,0
+Maize Germ Oil,2014,1
+Maize Germ Oil,2015,1
+Maize Germ Oil,2016,1
+Maize Germ Oil,2017,1
+"Oilcrops Oil, Other",2014,6
+"Oilcrops Oil, Other",2015,5
+"Oilcrops Oil, Other",2016,5
+"Oilcrops Oil, Other",2017,4
+Tomatoes and products,2014,16186
+Tomatoes and products,2015,16851
+Tomatoes and products,2016,17246
+Tomatoes and products,2017,17539
+Onions,2014,7435
+Onions,2015,7645
+Onions,2016,7788
+Onions,2017,7952
+"Vegetables, Other",2014,87693
+"Vegetables, Other",2015,88377
+"Vegetables, Other",2016,89809
+"Vegetables, Other",2017,91212
+"Oranges, Mandarines",2014,9968
+"Oranges, Mandarines",2015,10192
+"Oranges, Mandarines",2016,10343
+"Oranges, Mandarines",2017,10419
+"Lemons, Limes and products",2014,1658
+"Lemons, Limes and products",2015,1773
+"Lemons, Limes and products",2016,1781
+"Lemons, Limes and products",2017,1813
+Grapefruit and products,2014,779
+Grapefruit and products,2015,850
+Grapefruit and products,2016,907
+Grapefruit and products,2017,914
+"Citrus, Other",2014,1370
+"Citrus, Other",2015,1404
+"Citrus, Other",2016,1464
+"Citrus, Other",2017,1458
+Bananas,2014,16405
+Bananas,2015,16785
+Bananas,2016,16553
+Bananas,2017,16982
+Plantains,2014,4073
+Plantains,2015,4180
+Plantains,2016,4197
+Plantains,2017,4249
+Apples and products,2014,7670
+Apples and products,2015,7634
+Apples and products,2016,7623
+Apples and products,2017,7607
+Pineapples and products,2014,3696
+Pineapples and products,2015,3816
+Pineapples and products,2016,3866
+Pineapples and products,2017,3959
+Dates,2014,634
+Dates,2015,656
+Dates,2016,660
+Dates,2017,669
+Grapes and products (excl wine),2014,3761
+Grapes and products (excl wine),2015,3755
+Grapes and products (excl wine),2016,3713
+Grapes and products (excl wine),2017,3796
+"Fruits, Other",2014,21512
+"Fruits, Other",2015,21618
+"Fruits, Other",2016,21865
+"Fruits, Other",2017,22084
+Coffee and products,2014,394
+Coffee and products,2015,379
+Coffee and products,2016,405
+Coffee and products,2017,395
+Cocoa Beans and products,2014,276
+Cocoa Beans and products,2015,272
+Cocoa Beans and products,2016,265
+Cocoa Beans and products,2017,298
+Tea (including mate),2014,191
+Tea (including mate),2015,202
+Tea (including mate),2016,205
+Tea (including mate),2017,208
+Pepper,2014,26
+Pepper,2015,29
+Pepper,2016,34
+Pepper,2017,38
+Pimento,2014,189
+Pimento,2015,206
+Pimento,2016,211
+Pimento,2017,238
+Cloves,2014,7
+Cloves,2015,8
+Cloves,2016,8
+Cloves,2017,8
+"Spices, Other",2014,346
+"Spices, Other",2015,371
+"Spices, Other",2016,470
+"Spices, Other",2017,467
+Wine,2014,210
+Wine,2015,197
+Wine,2016,179
+Wine,2017,178
+Beer,2014,40
+Beer,2015,55
+Beer,2016,57
+Beer,2017,51
+"Beverages, Fermented",2014,263
+"Beverages, Fermented",2015,286
+"Beverages, Fermented",2016,298
+"Beverages, Fermented",2017,318
+"Beverages, Alcoholic",2014,0
+"Beverages, Alcoholic",2015,0
+"Beverages, Alcoholic",2016,0
+"Beverages, Alcoholic",2017,0
+"Alcohol, Non-Food",2014,0
+"Alcohol, Non-Food",2015,0
+"Alcohol, Non-Food",2016,0
+"Alcohol, Non-Food",2017,0
+Bovine Meat,2014,1693
+Bovine Meat,2015,1704
+Bovine Meat,2016,1712
+Bovine Meat,2017,1728
+Mutton & Goat Meat,2014,585
+Mutton & Goat Meat,2015,597
+Mutton & Goat Meat,2016,609
+Mutton & Goat Meat,2017,615
+Pigmeat,2014,3902
+Pigmeat,2015,3922
+Pigmeat,2016,3847
+Pigmeat,2017,3876
+Poultry Meat,2014,2626
+Poultry Meat,2015,2708
+Poultry Meat,2016,2855
+Poultry Meat,2017,2920
+"Meat, Other",2014,21
+"Meat, Other",2015,21
+"Meat, Other",2016,22
+"Meat, Other",2017,22
+"Offals, Edible",2014,780
+"Offals, Edible",2015,785
+"Offals, Edible",2016,788
+"Offals, Edible",2017,360
+"Butter, Ghee",2014,113
+"Butter, Ghee",2015,114
+"Butter, Ghee",2016,114
+"Butter, Ghee",2017,115
+Cream,2014,34
+Cream,2015,37
+Cream,2016,37
+Cream,2017,39
+"Fats, Animals, Raw",2014,1317
+"Fats, Animals, Raw",2015,1408
+"Fats, Animals, Raw",2016,1440
+"Fats, Animals, Raw",2017,1435
+Eggs,2014,3324
+Eggs,2015,3682
+Eggs,2016,3837
+Eggs,2017,3897
+Milk - Excluding Butter,2014,16709
+Milk - Excluding Butter,2015,16607
+Milk - Excluding Butter,2016,16785
+Milk - Excluding Butter,2017,17158
+Infant food,2014,0
+Infant food,2015,0
+Infant food,2016,0
+Infant food,2017,0
+Miscellaneous,2014,0
+Miscellaneous,2015,0
+Miscellaneous,2016,0
+Miscellaneous,2017,0
+Cottonseed,2014,1165
+Cottonseed,2015,1014
+Cottonseed,2016,1040
+Cottonseed,2017,1115
+Palm kernels,2014,2309
+Palm kernels,2015,2362
+Palm kernels,2016,2222
+Palm kernels,2017,2157
